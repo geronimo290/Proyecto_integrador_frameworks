@@ -36,7 +36,7 @@ El sistema está dividido en dos microservicios:
 
 ### 1. Panel de Control y Configuración
 El usuario puede seleccionar el modelo y cargar los parámetros físicos del ducto.
-*(Acá iría tu captura del formulario)*
+
 
 ### 2. Predicción y Análisis de Riesgo
 Visualización clara del riesgo y gráficos de apoyo.
