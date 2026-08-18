@@ -40,7 +40,7 @@ El usuario puede seleccionar el modelo y cargar los parámetros físicos del duc
 
 ### 2. Predicción y Análisis de Riesgo
 Visualización clara del riesgo y gráficos de apoyo.
-*(Acá iría tu captura del resultado con la barra de colores)*
+
 
 ---
 
